@@ -1,0 +1,56 @@
+body{
+  color: white;
+  background: #c0d3ff;
+  background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN6bX7PLVRuY9RSvLl2roObBtUEbmNPrjQEgSe-HsLIfcszD48NrVGpSmDI0lpdbwWOoN3D9qFf9ifkREmxyhUY0rwcU38ICVUzBCIykzGKvJOkG0wwq456EIXoM_v_n1Q7uVCefmfwsli4n6YknyoPiJZBhOluBmCx_927mT3ruFngx0vTRTXk4ybgg/w640-h360-rw/beeautiful-sunset-illustration-1212023.png");
+}
+#camera , #result{
+  border: 3px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name{
+  color: rgb(255, 255, 255);
+}
+.emotion_name{
+  font-size: 40px;
+}
+.emoji{
+  font-size: 50px;
+}
+.heading{
+  font-size: 20px;
+  letter-spacing: 10px;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  color: #c0d3ff;
+  width: 500px;
+}
+
+.button_check{
+    background-color: #c0d3ff;
+}
+
+.button_capture{
+    background-color: rgb(227, 141, 245);
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 1140px;
+    text-align: center;
+    background-color: rgb(147, 241, 199);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 3;
+    color: rgb(255, 255, 255);
+}
+
+.label{
+    background-color: aliceblue;
+    color: #bd84f0;
+
+}
+
+.size{
+  font-size: 20px;
+}
